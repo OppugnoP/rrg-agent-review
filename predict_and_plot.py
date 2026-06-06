@@ -12,7 +12,7 @@ plt.rcParams['font.family'] = 'Times New Roman'
 # 预测2026年总文章数
 # =========================
 x_hist = np.array([2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025])
-y_hist = np.array([1, 2, 3, 8, 8, 19, 34, 50, 83, 131])
+y_hist = np.array([1, 2, 3, 8, 8, 19, 34, 51, 83, 132])
 
 x_shifted = x_hist - 2016
 a, b = np.polyfit(x_shifted, np.log(y_hist), 1)
@@ -24,7 +24,7 @@ print(f"Predicted total articles in 2026: {total_2026}")
 # 数据
 # =========================
 years = [2023, 2024, 2025, 2026]
-articles_total = [50, 83, 131, total_2026]
+articles_total = [51, 83, 132, total_2026]
 ratios         = [10.42, 21.95, 49.22, 68.00]
 llm_2026       = round(total_2026 * ratios[3] / 100)
 articles_llm   = [5, 18, 63, llm_2026]
