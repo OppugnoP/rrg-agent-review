@@ -1,0 +1,294 @@
+Year,Title
+2023,A Doctors Behavior Aware and Domain Knowledge Driven Model for Medical Report Generation
+2023,A Knowledge-driven Cross-modal Memory Network for Radiology Report Generation
+2023,A Novel Deep Learning Model for Medical Report Generation by Inter-Intra Information Calibration
+2023,Adaptively Multi-Objective Adversarial Training for Medical Image Report Generation
+2023,Adversarial Training with Comprehensive Objective for Medical Image Report Generation
+2023,Attention Enhanced Network with Semantic Inspector for Medical Image Report Generation
+2023,Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation
+2023,Automated Radiology Report Generation Using Transformers
+2023,Automated Report Generation: A GRU Based Method for Chest X-Rays
+2023,Automatic Medical Report Generation via Latent Space Conditioning and Transformers
+2023,Automatic Report Generation on A Large-Scale Stroke MRI Dataset
+2023,Auxiliary signal-guided knowledge encoder-decoder for medical report generation
+2023,Learning To Exploit Temporal Structure for Biomedical Vision-Language Processing
+2023,Cross-modal Knowledge Radiology Generation
+2023,Controllable Chest X-Ray Report Generation from Longitudinal Representations
+2023,CXR-CLIP Toward Large Scale Chest X-ray Language-Image Pre-training
+2023,Deep Learning based Automatic Radiology Report Generation
+2023,Enhanced Knowledge Injection for Radiology Report Generation
+2023,Enhancing Medical Report Generation in Multi-Slice Fusion Scenarios
+2023,Evaluating GPT-4 on Impressions Generation in Radiology Reports
+2023,From Observation to Concept: A Flexible Multi-View Paradigm for Medical Report Generation
+2023,Generating Chinese Radiology Reports from X-Ray Images: A Public Dataset and an X-ray-to-Reports Generation Method
+2023,Generative Artificial Intelligence for Chest Radiograph Interpretation in the Emergency Department
+2023,KiUT: Knowledge-Injected U-Transformer for Radiology Report Generation
+2023,Hybrid Reinforced Medical Report Generation With M-Linear Attention and Repetition Penalty
+2023,IIHT: Medical Report Generation with Image-to-Indicator Hierarchical Transformer
+2023,Improving Radiology Summarization with Radiograph and Anatomy Prompts
+2023,Dynamic Graph Enhanced Contrastive Learning for Chest X-Ray Report Generation
+2023,"Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation"
+2023,Multi-Task Learning for Lung Disease Classification and Report Generation via Prior Graph Structure and Contrastive Learning
+2023,MvCo-DoT: Multi-View Contrastive Domain Transfer Network for Medical Report Generation
+2023,Non-symmetrical Sibling-Stream Network with Adaptive Positional Encoding for Automatic Medical Report Generation
+2023,Normal-Abnormal Decoupling Memory for Medical Report Generation
+2023,Optimizing Medical Image Report Generation with Varied Attention Mechanisms
+2023,Preliminary assessment of automated radiology report generation with generative pre-trained transformers: comparing results to radiologist-generated reports
+2023,Rad-ReStruct: A Novel VQA Benchmark and Method for Structured Radiology Reporting
+2023,Radiology report generation with a learned knowledge base and multi-modal alignment
+2023,Radiology Report Generation via Structured Knowledge-Enhanced Multi-modal Attention and Contrastive Learning
+2023,RALES: A Benchmark for Radiology Language Evaluations
+2023,RECAP£ºTowards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning
+2023,Replace and Report: NLP Assisted Radiology Report Generation
+2023,Report Generation on Chest X-rays using Deep Learning
+2023,S3-Net: A Self-Supervised Dual-Stream Network for Radiology Report Generation
+2023,Self Adaptive Global-Local Feature Enhancement for Radiology Report Generation
+2023,Semantic-Driven Global-Local Cooperative Contrastive Learning for Medical Report Generation
+2023,Style-Aware Radiology Report Generation with RadGraph and Few-Shot Prompting
+2023,Interactive and Explainable Region-Guided Radiology Report Generation
+2023,Transformers Are All You Need to Generate Automatic Report from Chest X-ray Images
+2023,Utilizing Longitudinal Chest X-Rays and Reports to Pre-fill Radiology Reports
+2023,Vision Transformer and Language Model Based Radiology Report Generation
+2023,METransformer: Radiology Report Generation by Transformer With Multiple Learnable Expert Tokens
+2024,A Cross-Modal Interactive Memory Network Based on Fine-Grained Medical Feature Extraction for Radiology Report Generation
+2024,A Label-focused Transformer for Generating Illness-aware Medical Reports
+2024,A Multi-Modal Feature Fusion-Based Approach for Chest X-Ray Report Generation
+2024,An Organ-Aware Diagnosis Framework for Radiology Report Generation
+2024,Anatomy-Aware Enhancement and Cross-Modal Disease Representation Fusion for Medical Report Generation
+2024,Attribute Prototype-Guided Iterative Scene Graph for Explainable Radiology Report Generation
+2024,Augmented Medical Image Captioning: Leveraging Class-Dependent Activation Maps for Enhanced Radiology Report Generation
+2024,Automatic Radiology Reports Generation via Memory Alignment Network
+2024,Automatic Detection of Disorder and Report Generation from MRI Scans
+2024,Automatic Medical Report Generation Based on Detector Attention Module and GPT-Based Word LSTM
+2024,Automatic Radiology Report Generation: A Comprehensive Review and Innovative Framework
+2024,Automatic Radiology Report Generator Using Transformer With Contrast-Based Image Enhancement
+2024,BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays
+2024,Bootstrapping Large Language Models for Radiology Report Generation
+2024,Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation
+2024,C2RG: Parameter-efficient Adaptation of 3D Vision and Language Foundation Model for Coronary CTA Report Generation
+2024,CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation
+2024,CGFTrans: Cross-Modal Global Feature Fusion Transformer for Medical Report Generation
+2024,CNN-Enabled Generation of Comprehensive Reports from Chest and Orthopaedic Radiographs
+2024,CNX-B2: A Novel CNN-Transformer Approach For Chest X-Ray Medical Report Generation
+2024,Co-Occurrence Relationship Driven Hierarchical Attention Network for Brain CT Report Generation
+2024,Collaboration between clinicians and vision¨Clanguage models in radiology report generation
+2024,Continually Tuning a Large Language Model for Multi-domain Radiology Report Generation
+2024,Cross-modal Network of Mining Text-knowledge for Radiology Report Generation
+2024,CT2Rep Automated Radiology Report Generation for 3D Medical Imaging
+2024,InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation
+2024,End-to-End Clustering Enhanced Contrastive Learning for Radiology Reports Generation
+2024,Energy-Based Controllable Radiology Generation Knowledge
+2024,Enhancement of medical report generation by multi-scale image deblurring strategy
+2024,Enhancing Chest X-ray Analysis using Encoder-Decoder with GRU for Report Generation
+2024,Extracting and Encoding: Leveraging Large Language Models and Medical Knowledge to Enhance Radiological Text Representation
+2024,Eye Gaze Guided Cross-Modal Alignment Network for Radiology Report Generation
+2024,FODA-PG for Enhanced Medical Imaging Narrative Generation: Adaptive Differentiation of Normal and Abnormal Attributes
+2024,From vision to text: A comprehensive review of natural image captioning in medical diagnosis and radiology report generation
+2024,From Data to Diagnosis: Enhancing Radiology Reporting With Clinical Features Encoding and Cross-Modal Coherence
+2024,FTT: Fourier Transform Based Transformer for Brain CT Report Generation
+2024,GMoD: Graph-Driven Momentum Distillation Framework with Active Perception of Disease Severity for Radiology Report Generation
+2024,GREEN: Generative Radiology Report Evaluation and Error Notation
+2024,Gu Complex Organ Mask Guided Radiology Report Generation
+2024,Improving Inter-Report Consistency in Radiology Report Generation via Lesion-aware Mixup Augmentation
+2024,Image-Aware Evaluation of Generated Medical Reports
+2024,Improving Radiology Report Generation with D<sup>2</sup>-Net: When Diffusion Meets Discriminator
+2024,Improving the CXR Reports Generation with Multi-modal feature Alignment and Self-Refining strategy
+2024,Integrating MedCLIP and Cross-Modal Fusion for Automatic Radiology Report Generation
+2024,KARGEN: Knowledge-Enhanced Automated Radiology Report Generation Using Large Language Models
+2024,Knowledge-Guided Cross-Modal Alignment and Progressive Fusion for Chest X-Ray Report Generation
+2024,Leveraging Professional Radiologists&#x0027; Expertise to Enhance LLMs&#x0027; Evaluation for AI-generated Radiology Reports
+2024,LHR-RFL: Linear Hybrid-Reward-Based Reinforced Focal Learning for Automatic Radiology Report Generation
+2024,Memory-Based Cross-Modal Semantic Alignment Network for Radiology Report Generation
+2024,Memory Guided Transformer With Spatio-Semantic Visual Extractor for Medical Report Generation
+2024,MRScore: Evaluating Medical Report with LLM-Based Reward System
+2024,Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning
+2024,Multi-Level Objective Alignment Transformer for Fine-Grained Oral Panoramic X-Ray Report Generation
+2024,Multi-Modality Regional Alignment Network for Covid X-Ray Survival Prediction and Report Generation
+2024,Multivariate Cooperative Game for Image-Report Pairs: Hierarchical Semantic Alignment for Medical Report Generation
+2024,PhraseAug: An Augmented Medical Report Generation Model With Phrasebook
+2024,Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM
+2024,PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation
+2024,Pursuing an Effective Vision Encoder for Enhancing Explainable X-Ray Report Generation
+2024,RadChat: A Radiology Chatbot Incorporating Clinical Context for Radiological Reports Summarization
+2024,RadGraph-XL: A Large-Scale Expert-Annotated Dataset for Entity and Relation Extraction from Radiology Reports
+2024,Radiographic Reports Generation via Retrieval Enhanced Cross-modal Fusion
+2024,Reinforcement Learning for Improved Alignment in Radiology Reports Generation
+2024,Report Generation from X-Ray imaging by Retrieval-Augmented Generation and improved Image-Text Matching
+2024,See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning
+2024,Semi-Supervised Medical Report Generation via Graph-Guided Hybrid Feature Consistency
+2024,Sequence-Integrated Radiology Report Generation Leveraging Positional Encoding for Text and Images
+2024,Structural Entities Extraction and Patient Indications Incorporation for Chest X-Ray Report Generation
+2024,Symbiotic Fusion of Evolving Anatomical Landscapes for Intelligent Diagnostic Narratives
+2024,Systematic Review of Recent ChatGPT updates on Reporting of Radiology Cases with Reference to Magnetic Resonance Imaging of the Lumbar Spine
+2024,Textual Inversion and Self-supervised Refinement for Radiology Report Generation
+2024,TGMT: A Terminology-Guided Multi-Task Approach for Lung Cancer CT Report Generation
+2024,The Long-Term Memory Transformer with Multimodal Fusion for Radiology Report Generation
+2024,The Power of Context: A Comparative Analysis of Text Embeddings in Radiology Report Generation
+2024,Token-Mixer: Bind Image and Text in One Embedding Space for Medical Image Reporting
+2024,Topicwise Separable Sentence Retrieval for Medical Report Generation
+2024,TSGET: Two-Stage Global Enhanced Transformer for Automatic Radiology Report Generation
+2024,Uni-Med: A Unified Medical Generalist Foundation Model for Multi-Task Learning via Connector-MoE
+2024,Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation
+2024,Using Information Extraction to Normalize the Training Data for Automatic Radiology Report Generation
+2024,Visual-Textual Cross-Modal Interaction Network for Radiology Report Generation
+2024,XRaySwinGen: Automatic medical reporting for X-ray exams with multimodal model
+2024,AHIVE: Anatomy-aware Hierarchical Vision Encoding for Interactive Radiology Report Retrieval
+2025,A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings
+2025,A survey of deep-learning-based radiology report generation using multimodal inputs
+2025,A Chain of Diagnosis Framework for Accurate and Explainable Radiology Report Generation
+2025,A Comparative Study of Deep Learning Applications in Medical Report Generation Using Chest X-Rays
+2025,A Novel Text-Image Alignment Framework for XrayGPT to Enhance Chest Radiography Report Generation
+2025,A Triplet Optimization and Difference Detail Perception Network with Adaptive Feature Enhancement for Radiology Report Generation
+2025,A Visual Question Answering-Driven Fine-Grained Cross-Modal Alignment Framework for Radiological Report Generation
+2025,Activating Associative Disease-Aware Vision Token Memory for LLM-Based X-Ray Report Generation
+2025,Adapter-Enhanced Hierarchical Cross-Modal Pre-Training for Lightweight Medical Report Generation
+2025,Adaptive Medical Topic Learning for Enhanced Fine-Grained Cross-Modal Alignment in Medical Report Generation
+2025,Adaptive Semantic Alignment for Automated Radiology Report Generation via Cross-Modal Knowledge Integration
+2025,Align Modalities: Advancing Medical Report Generation with Unified Encoder and Inter-Case Contrastive Learning
+2025,ALV-Net: Adaptive Language and Visual Feature Fusion for Radiology Report Generation
+2025,"ANATOMICAL ATTENTION ALIGNMENT REPRESENTATION FOR RADIOLOGY REPORT GENERATION Quang Vinh Nguyen , Minh Duc Nguyen , Thanh Hoang Son Vo , Hyung-Jeong Yang Soo-Hyung Kim IT Center, Viettel Post, Viet Nam Department of Artificial Intelligence Convergenc"
+2025,Benchmarking and Enhancing Vision-Language Models for 3D Radiology Report Generation
+2025,Artificial Intelligence in Breast Ultrasound Diagnosis and Report Generation
+2025,Automated AI-Driven Report Generation for Chest X-Ray Interpretation in Teleradiology: Towards Enhanced Personalized Healthcare
+2025,Automated Chest X-ray Captioning and Report Generation Using CheXNet and BioGPT
+2025,Automated Medical Report Generation using Deep Learning and Attention Mechanism
+2025,Automated Radiological Reporting for Brain Tumor Using Deep Learning and Llms
+2025,Automated Radiology Report Generation Based on Topic-Keyword Semantic Guidance
+2025,Automated Radiology Report Generation Using Medical Images
+2025,Automated X-Ray Chest Report Generation
+2025,Automatic Radiology Report Generation via Self-Attention Mask Optimization
+2025,Derin ??renme Tabanl? Model F¨¹zyon Yakla??m? ile Otomatik Radyoloji Raporu Olu?turma Automatic Radiology Report Generation with Deep Learning Based Model Fusion Approach
+2025,Benchmarking Radiology Report Generation From Noisy Free-Texts
+2025,Cervical-RG: Automated Generation Multi-sequence CoT-guided Hierarchical
+2025,ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Impression Generation on Multi-Institution and Multi-System Data
+2025,Chest X-Ray Diagnosis with Joint Report Generation and Lesion Localization Using Multimodal Vision-Language Models
+2025,Chest X-Ray Report Generation Using Abnormality Guided Vision Language Model
+2025,Clinical Validation of a Generative Artificial Intelligence Model for Chest Radiograph Reporting
+2025,Clinical Verification of AI Models for Radiology Report Annotation Using a Physician-Annotated MIMIC-CXR
+2025,Coherent Medical Report Generation from Chest Radiographs with Weighted Localized Features
+2025,CoMT: Chain-of-Medical-Thought Reduces Hallucination in Medical Report Generation
+2025,Context-Aware Prompt Engineering and Time-Aware LLM Architecture for Radiology Report Generation
+2025,Contrastive Knowledge-Guided Large Language Models for Medical Report Generation
+2025,Contrastive Retrieval-Infused Cross-Modal Attention for Medical Report Generation
+2025,Cross-Modal Augmented Transformer for Automated Medical Report Generation
+2025,Cross-Modal Causal Representation Learning for Radiology Report Generation
+2025,CT-AGRG: Automated Abnormality-Guided Report Generation from 3D Chest CT Volumes
+2025,CURV: Coherent Uncertainty-Aware Reasoning in Vision-Language Models for X-Ray Report Generation
+2025,CyclicAligner: Knowledge-Enhanced Cyclical Alignment for Chest X-Ray Report Generation
+2025,DACG: Dual Attention and Context Guidance model for radiology report generation
+2025,DDaTR: Dynamic Difference-Aware Temporal Residual Network for Longitudinal Radiology Report Generation
+2025,Decoupled Representation Learning for Difference Medical Report Generation
+2025,Dia-LLaMA: Towards Large Language Model-Driven CT Report Generation
+2025,Diagnostic Accuracy and Clinical Value of a Domain-Specific Multimodal Generative AI Model for Chest Radiograph Interpretation
+2025,Diff-RRG: Longitudinal Disease-wise Difference LLM-based Radiology Generation
+2025,Disease probability-enhanced follow-up chest X-ray radiology report summary generation
+2025,Disease Classification and Report Generation from Chest X-Ray Images Using SigLIP and LLaVA
+2025,Drafting the Future: The Dawn of AI Report Generation in Radiology
+2025,Efficiency and Quality of Generative AI¨CAssisted Radiograph Reporting
+2025,Enhancing Radiology Interpretation Modality-Specific Fine-Tuning
+2025,Enhancing Radiology Report Generation via Multi-Phased Supervision
+2025,Evaluating Automated Radiology Report Quality Through Fine-Grained Phrasal Grounding of Clinical Findings
+2025,Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages
+2025,Exploring the Design Space of 3D MLLMs for CT Report Generation
+2025,Extractive Radiology Reporting with Memory-based Cross-modal Representations
+2025,Feature Decomposition via Shared Low-rank Matrix Recovery for CT Report Generation
+2025,FeLoRA16-SPP: Parameter-Efficient Fine-Tuning Multimodal Radiology Generation Answering
+2025,Filling in the Missing Piece: Advancing Automated Radiology Report Generation with Clinical Insights
+2025,Focusing on Abnormal: Visual Contrastive Classification and Semantic Enhancement for Medical Report Generation
+2025,From Slices to Volumes: Multi-scale Fusion of 2D and 3D Features for CT Scan Report Generation
+2025,From Image to Insight: Transformer-Based Multimodal Feature Fusion for Enhanced Chest X-Ray Report Generation
+2025,Generating Clinically Relevant Reports from Chest X-Rays for Cardiomegaly Diagnosis
+2025,Generative AI Reporting of Chest Radiographs: Promise and Perspectives
+2025,HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation
+2025,Hierarchical Organ-Position Attention Network for Chest X-ray and Radiology Report Retrieval
+2025,Knowledge-Driven Query Network with Adaptive Cross-View Attention for Structured Radiology Report Generation
+2025,Integrating Clinical Knowledge into Radiology Report Generation to Enhance Diagnosis
+2025,Integrating Diagnostic Guidance and Historical Context for Radiology Report Generation
+2025,Interactive Segmentation and Report Generation for CT Images
+2025,Interpretable Brain MRI Report Generation Anchored by Lesion Topography
+2025,ITAdaptor: Image-Tag Adapter Framework with Knowledge Enhancement for Radiology Report Generation
+2025,CT-GRAPH: Hierarchical Graph Attention Network for Anatomy-Guided CT Report Generation
+2025,Keyword-based AI assistance in the generation of radiology reports: A pilot study
+2025,Knowledge Distillation and Transformer-Based Framework for Automatic Spine CT Report Generation
+2025,Label Auxiliary and Cross-modal Auxiliary Memory Network for Medical Report Generation
+2025,Large Language Model With Region-Guided Referring and Grounding for CT Report Generation
+2025,Libra Leveraging Temporal Images for Biomedical Radiology Analysis
+2025,LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous Federated Learning
+2025,LLM-RG4: Flexible and Factual Radiology Report Generation Across Diverse Input Contexts
+2025,Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation
+2025,MambaXray-CTL: Multi-Stage Contrastive Training for Medical Report Generation with a Mamba-Based Multi-Modal Large Model
+2025,MCA-RG: Enhancing LLMs with Medical Concept Alignment for Radiology Report Generation
+2025,Med3DVLM: An Efficient Vision-Language Model for 3D Medical Image Analysis
+2025,Medical Report Generation With Knowledge Distillation and Multi-Stage Hierarchical Attention in Vision Transformer Encoder and GPT-2 Decoder
+2025,MediVLM: A Vision Language Model for Radiology Report Generation from Medical Images
+2025,MENet: Memory Enhanced Network for Chest Radiology Report Generation
+2025,MEPNet: Medical Entity-Balanced Prompting Network for Brain CT Report Generation
+2025,MFDP: Multi-View Feature Integration and Enhanced Disease Prompting for Radiology Report Generation
+2025,MicarVLMoE: A Modern Gated Cross-Aligned Vision-Language Mixture of Experts Model for Medical Image Captioning and Report Generation
+2025,Model-EY: Enhanced Yield Transformer Based Turkish Chest X-Ray Medical Report Generation
+2025,MRGAgents: A Multi-Agent Framework for Improved Medical Report Generation with Med-LVLMs
+2025,Multi-Attention Based Mechanism for the Automatic Radiology Report Generation
+2025,Multi-scale based cross-modal semantic alignment network for radiology report generation
+2025,Multimodal Knowledge-Infused VLM for Respiratory Disease Prediction and Clinical Report Generation
+2025,MvKeTR: Chest CT Report Generation With Multi-View Perception and Knowledge Enhancement
+2025,Optimizing Efficiency and Visual-Textual Alignment for LLM-Based Radiology Report Generation
+2025,OS-RRG: Observation State-Aware Radiology Report Generation With Balanced Diagnosis and Attention Intervention
+2025,PadChest-GR: A Bilingual Chest X-Ray Dataset for Grounded Radiology Report Generation
+2025,Phrase-Grounded Fact-Checking for Automatically Generated Chest X-Ray Reports
+2025,Prompt-Guided Radiology Report Generation Utilizing SAM
+2025,R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation
+2025,RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment
+2025,Radgen: A Cross-Modal Fusion System for Automated Radiology Report Generation
+2025,Radiology Report Generation via Multi-objective Preference Optimization
+2025,Radiology Report Conclusion Generation by Retrieval Augmented Generation
+2025,Radixpert: A Multimodal Approach to Medical Imaging
+2025,RadTextAid: A CNN-Guided Framework Utilizing Lightweight Vision-Language Models for Assistive Radiology Reporting
+2025,Reason like a radiologist: Chain-of-thought and reinforcement learning for verifiable report generation
+2025,Reference-guided state-aware framework for chest X-ray report generation
+2025,Report is a mixture of topics: Topic-guided radiology report generation
+2025,RRG-DPO: Direct Preference Optimization for Clinically Accurate Radiology Report Generation
+2025,Semantic-Aware Generation Domain-Specific Diversity-Controlled Retrieval
+2025,Severity-Aware Radiology Report Generation: Knowledge Graph Expansion and Momentum-Guided Classification Enhancement
+2025,Spatio-Temporal and Retrieval-Augmented Modeling for Chest X-Ray Report Generation
+2025,SPEC-CXR: Advancing Entity-Level Performance Evaluation Generation
+2025,SumGPT: A Multimodal Framework for Radiology Report Summarization to Improve Clinical Performance
+2025,Synthesising evidence regarding artificial intelligence--generated radiological reports based on medical images: a scoping review?protocol
+2025,TedNet: A Cross-modal Alignment Network Based on Text Dependency Knowledge for Automatic Generation of Radiology Reports
+2025,Towards a holistic framework for multimodal LLM in 3D brain CT radiology report generation
+2025,Towards Conditioning Clinical Text Generation for User Control
+2025,Towards generalist foundation model for radiology by leveraging web-scale 2D&3D medical data
+2025,TRRG: Towards Truthful Radiology Report Generation With Cross-Modal Disease Clue Enhanced Large Language Models
+2025,Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation
+2025,Value of Using a Generative AI Model in Chest Radiography Reporting: A Reader Study
+2025,ViT-driven Visual Extraction in R2GenCMN for medical report generation
+2025,VTAG: Visual-Textual Association Guided Radiology Reports Generation
+2025,Who Matters More in Radiology Report Generation Vision Encoders or Language Models
+2025,X-Gen: Enhancing Radiology Report Generation via LLM-Driven Data Augmentation and Decoupled Training
+2025,Learnable Retrieval Enhanced Visual-Text Alignment and Fusion for Radiology Report Generation
+2026,A Disease-Aware Dual-Stage Framework for Chest X-ray Report Generation
+2026,A Radiology Report Generation Model Based on Boosting Cross-Modal Information Joint Memory Alignment
+2026,Abn-BLIP: Abnormality-aligned Bootstrapping Language-Image Pre-training for pulmonary embolism diagnosis and report generation from CTPA
+2026,Automatic Generation of Medical Imaging Diagnostic Report using BLIP Model
+2026,Automatic Radiology Report Generation Based on State-Space Model
+2026,Beyond N-grams: A Hierarchical Reward Learning Framework for Clinically-Aware Medical Report Generation
+2026,Can AI write reports like a radiologist? A blinded evaluation of large language model-generated lumbar spine MRI reports
+2026,DiA-gnostic VLVAE: Disentangled Alignment-Constrained Vision Language Variational AutoEncoder for Robust Radiology Reporting with Missing Modalities
+2026,Dynamic Traceback Learning for Medical Report Generation
+2026,FiR-Rad: Fine-grained Reinforcement with Structured Reasoning for Chest X-ray Report Generation
+2026,Fog&#x002F;Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection
+2026,GEMA-Score: Granular Explainable Multi-Agent Scoring Framework for Radiology Report Evaluation
+2026,Learning Self-Critiquing Mechanisms for Region-Guided Chest X-Ray Report Generation
+2026,MARE: Multimodal Analogical Reasoning for Disease Evolution-Aware Radiology Report Generation
+2026,Mitigating Entity Hallucinations in 3D Radiology Report Generation via Dual-Stream Alignment
+2026,Organ-Aware Routing Mixture-of-Retrieval Augmented Generation for Fetal Ultrasound Reporting
+2026,PET2Rep: Towards Vision-Language Model-Drived Automated Radiology Report Generation for Positron Emission Tomography
+2026,PriorRG: Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation
+2026,R2GenCSR: Mining Contextual and Residual Information for LLMs-based Radiology Report Generation
+2026,ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation
+2026,RefleXNet: Targeted Self-Reflection for Accurate Chest X-ray Reporting
+2026,Rethinking Radiology Report Generation From Narrative Flow to Topic-Guided Findings
+2026,RIHA: Report-Image Hierarchical Alignment for Radiology Report Generation
+2026,S2D-Align: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation
+2026,Segmentation-Guided Radiology Report Generation for Pneumothorax Detection in Chest X-Rays
+2026,Unified Mixture-of-Experts Framework for Joint Cardiac and Vascular Ultrasound Analysis and Report Generation
+2026,Unsupervised Contrastive Refinement with Graph-Aware Multimodal Interaction for Radiology Report Generation
